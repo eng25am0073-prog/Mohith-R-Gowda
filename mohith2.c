@@ -1,8 +1,5 @@
 
-#  else
-extern int printf(const char *, ...);
-extern int scanf(const char *, ...);
-#  endif
+
 #else
 #  include <stdio.h>
 #endif
