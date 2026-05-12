@@ -1,6 +1,4 @@
-#if defined(__has_include)
-#  if __has_include(<stdio.h>)
-#    include <stdio.h>
+
 #  else
 extern int printf(const char *, ...);
 extern int scanf(const char *, ...);
