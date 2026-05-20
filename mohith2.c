@@ -1,8 +1,7 @@
 
 
 #else
-#  include <stdio.h>
-#endif
+#include <stdio.h>
 
 int main() {
     int n, sum = 0;
