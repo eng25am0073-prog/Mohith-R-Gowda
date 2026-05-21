@@ -1,6 +1,5 @@
 
 
-#else
 #include <stdio.h>
 
 int main() {
