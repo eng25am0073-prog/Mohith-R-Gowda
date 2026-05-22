@@ -1,3 +1,3 @@
 # Mohith-R-Gowda
-this is my frist thing
+this i my frist thing
 githu
