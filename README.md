@@ -1,3 +1,3 @@
 # Mohith-R-Gowda
-this i my frist thing
+ my frist thing
 
